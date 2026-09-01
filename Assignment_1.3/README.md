@@ -16,12 +16,12 @@
 
 The following table contains the Google Drive links for the video demonstrations of the completed assignments.
 
-| Assignment | Topic | Google Drive Video |
+| Assignment | Topic | 
 |---|---|---|
-| **Assignment 1** | Web Element Identification | 
-| **Assignment 2** | Multiple Element Identification | 
-| **Assignment 3** | CSS Selector Challenge | 
-| **Assignment 4** | Child Nodes Using CSS | 
+| **Assignment 1** | Web Element Identification 
+| **Assignment 2** | Multiple Element Identification 
+| **Assignment 3** | CSS Selector Challenge 
+| **Assignment 4** | Child Nodes Using CSS 
 
 > **Note:** Please ensure that the Google Drive sharing permission is set to **Anyone with the link → Viewer** so that the videos can be accessed during evaluation.
 
@@ -61,7 +61,7 @@ Locating child and nested web elements using CSS child (`>`) and descendant sele
 # 📌 Submission Information
 
 **Group:** 49  
-**Institute:** IEM, Salt Lake  
+**Institute:** IEM, NewTown  
 **Module:** Selenium Web Automation  
 **Programming Language:** Python  
 **Automation Tool:** Selenium WebDriver  
