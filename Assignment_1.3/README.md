@@ -7,24 +7,8 @@
 | Name | Enrollment No. | Class Roll No. | Section | Stream |
 |---|---|---:|---|---|
 | **Arif Mondal** | 12023002028075 | 9 | B | CSE(AI&ML) |
-| **Arijit Bhaya** | 12023002028076 | 10 | b | CSe(AI&ML) |
-| **Arghadeep Saha** | 12023002028074 | 8 | b | CSE(AI&ML) |
-
----
-
-# 🎬 Assignment Video Links
-
-The following table contains the Google Drive links for the video demonstrations of the completed assignments.
-
-| Assignment | Topic | 
-|---|---|---|
-| **Assignment 1** | Web Element Identification 
-| **Assignment 2** | Multiple Element Identification 
-| **Assignment 3** | CSS Selector Challenge 
-| **Assignment 4** | Child Nodes Using CSS 
-
-> **Note:** Please ensure that the Google Drive sharing permission is set to **Anyone with the link → Viewer** so that the videos can be accessed during evaluation.
-
+| **Arijit Bhaya** | 12023002028076 | 10 | B | CSE(AI&ML) |
+| **Arghadeep Saha** | 12023002028074 | 8 | B | CSE(AI&ML) |
 ---
 
 ## 📚 Assignment Details
